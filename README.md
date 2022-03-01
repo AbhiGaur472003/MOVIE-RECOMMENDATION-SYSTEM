@@ -5,6 +5,7 @@ This is content based recommendation system which recommends movie on the basis 
 
 We uses cosine similarity algorithm to find similarity between two movies.
 
+Uses API for poster.
 
 Below is the demo of our project.
 
